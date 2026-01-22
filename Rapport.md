@@ -8,7 +8,9 @@ DISCLAIMER : Mes VM ayant été détruites avant que je ne puisse push mon code 
 
 - [Installation de NIM](https://nim-lang.org/install.html)
 
-- Installation de Winim pour s'interfacer avec l'API Windows : nimble install winim 
+- Installation de Winim pour s'interfacer avec l'API Windows : nimble install winim
+  
+- Installation de Visual Studio Code
 
 - Désactivation de Windows Defender + Exclusion du répertoire C:\Users\localuser\Documents\
 
