@@ -1,3 +1,5 @@
+DISCLAIMER : Mes VM ayant été détruites avant que je ne puisse push mon code NIM sur le git, j'ai le regret de ne pouvoir rendre que le rapport rescapé et quelques screenshots...
+
 # Création de l'environnement
 
 ## 1.1 VM de dev/attaque
